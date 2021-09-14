@@ -33,4 +33,4 @@ Video games :video_game:, crochet/knitting :yarn:, :fishing_pole_and_fish:, <br>
 I am also good with HTML, CSS, and Bootstrap. Familiar with Font Awesome. <br>
 Learning JS on a slow course and learning more about GitHub a lot. <br>
 Currently learning how to properly use Markdown and other Git features with
-the ![GitHub Learning Lab](https://lab.github.com/).
+the [GitHub Learning Lab](https://lab.github.com/).
